@@ -1,2 +1,3 @@
 def divi(a, b):
-    return a / bprint("³ª´°¼À ±â´É ¿Ï¼º") 
+    return a / b
+print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Ï¼ï¿½") 
